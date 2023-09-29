@@ -49,11 +49,7 @@
     </div>
     <button>envoyer</button>
     </form>
-    
 </section><br><br><br>
-<!-- <footer>
-  <p>Réalisé par <span>Faiz dez tous les droits sont</span></p>
-</footer> -->
 <?php include("footer.php"); ?>
 </body>
 </html><br>
